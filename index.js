@@ -28,6 +28,7 @@ class Fun{
         }
     }
     //hello for last code
+    //comment for second branch
 }
 const fun = new Fun()
 fun.calculateAge()
